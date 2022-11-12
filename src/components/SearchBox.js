@@ -9,7 +9,7 @@ const SearchBox = ({ searchChange }) => {
         className="pa3 ba b--green bg-lightest-blue"
         type="search"
         placeholder="search robots"
-        style={{ marginBottom: "10px" }}
+        style={{ margin: "5px" }}
       ></input>
     </div>
   );
